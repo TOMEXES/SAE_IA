@@ -20,4 +20,6 @@ Ce Space contient un notebook Jupyter et une application Streamlit pour prédire
 
 
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference*
+
+Voici le lien https://huggingface.co/spaces/Tomjedo/SAEBUT3 pour acceder au Hugging face , les modeles et le app.py sont dans le site   dans la parties file 
